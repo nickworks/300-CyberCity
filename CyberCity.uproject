@@ -11,6 +11,22 @@
 		{
 			"Name": "Niagara",
 			"Enabled": true
+		},
+		{
+			"Name": "AudioModulation",
+			"Enabled": true
+		},
+		{
+			"Name": "AudioSynesthesia",
+			"Enabled": true
+		},
+		{
+			"Name": "SoundVisualizations",
+			"Enabled": true
+		},
+		{
+			"Name": "TimeSynth",
+			"Enabled": true
 		}
 	]
 }
